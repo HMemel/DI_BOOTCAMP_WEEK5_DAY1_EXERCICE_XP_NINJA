@@ -1,0 +1,7 @@
+{
+  "name": "ninjaApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
